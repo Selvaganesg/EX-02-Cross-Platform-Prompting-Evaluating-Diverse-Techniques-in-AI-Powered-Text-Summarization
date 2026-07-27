@@ -69,6 +69,10 @@ User experience
        RETURN EvaluationMatrix, OptimalConfig
 ## Output
 
-[Prompting Techniques for AI Summarization - Google Gemini.pdf](https://github.com/user-attachments/files/30400659/Prompting.Techniques.for.AI.Summarization.-.Google.Gemini.pdf)
+[Prompting Techniques for AI Summarization - Google Gemini.pdf](https://github.com/user-attachments/files/30400818/Prompting.Techniques.for.AI.Summarization.-.Google.Gemini.pdf)
+
+## Result
+ole-Based prompting delivered the best overall balance of clarity, speed, and pedagogical quality for educational summarization across platforms.
+
 
 
