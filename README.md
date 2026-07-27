@@ -69,5 +69,6 @@ User experience
        RETURN EvaluationMatrix, OptimalConfig
 ## Output
 
-[Prompt Engineering Evaluation Report - Google Gemini.pdf](https://github.com/user-attachments/files/30400418/Prompt.Engineering.Evaluation.Report.-.Google.Gemini.pdf)
+[Prompting Techniques for AI Summarization - Google Gemini.pdf](https://github.com/user-attachments/files/30400659/Prompting.Techniques.for.AI.Summarization.-.Google.Gemini.pdf)
+
 
