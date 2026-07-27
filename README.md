@@ -1,4 +1,3 @@
-[Prompt Engineering Evaluation Report - Google Gemini.pdf](https://github.com/user-attachments/files/30400405/Prompt.Engineering.Evaluation.Report.-.Google.Gemini.pdf)
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 ## AIM
@@ -68,7 +67,7 @@ User experience
     6. STEP 6: REPORT GENERATION
        Generate CSV/Table summarizing cross-platform performance across metrics.
        RETURN EvaluationMatrix, OptimalConfig
-## Result
+## Output
 
 [Prompt Engineering Evaluation Report - Google Gemini.pdf](https://github.com/user-attachments/files/30400418/Prompt.Engineering.Evaluation.Report.-.Google.Gemini.pdf)
 
